@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is prp
+สวัสดีครับ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)ผมชื่อ prp
 ===========================================================================================================================
 
 web developer , software developer
@@ -6,10 +6,10 @@ web developer , software developer
 
 เรียนรู้เกี่ยวกับโค้ดมา 6 ปีเต็ม
 
-* 🌍  I'm based in Thai
-* 🖥️  See my portfolio at [PORTFOLIO](http://www.puripong.lnw.mn/)
-* ✉️  You can contact me at [aunkhwjai@gmail.com](mailto:aunkhwjai@gmail.com)
-* 🧠  I'm learning python , react js , node js , lua , css
+* 🌍  อยู่ที่ประเทศไทย กรุงเทพ
+* 🖥️  พวกคุณสามารถดูผลงานได้ที่ [PORTFOLIO](http://www.puripong.lnw.mn/)
+* ✉️  คุณสามาถติดต่องานได้ที่ [aunkhwjai@gmail.com](mailto:aunkhwjai@gmail.com)
+* 🧠  ตอนนี้ผมกำลังเรียนรู้ python , react js , node js , lua , css
 
 <a href="https://www.github.com/puripong1st" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/puripong1st?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
